@@ -2,3 +2,12 @@ hey guys, here's our story
 this is Yana’s input 
 This is Aaron's input
 This is Chan's input 
+
+
+This is the code that we used
+
+git clone https://github.com/steveluu/collaborativewriting.git
+git pull origin master
+git add --all
+git commit -m "I changes some things"
+git push origin master

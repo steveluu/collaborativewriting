@@ -1,7 +1,11 @@
 hey guys, here's our story
 this is Yana’s input 
 This is Aaron's input
+
 This is Chan's input
+
+This is Chan's input 
+and this concludes our story
 
 git clone https://github.com/steveluu/collaborativewriting.git
 git pull origin master
